@@ -17,7 +17,7 @@ class Home extends StatelessWidget {
         init: AuthController(),
         builder: (controller) {
           return Scaffold(
-              backgroundColor: ColorConstants.kGravishBlueColor,
+  //            backgroundColor: ColorConstants.kGravishBlueColor,
               appBar: AppBar(
                 title: Text('Home'),
                 actions: [
